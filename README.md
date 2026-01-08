@@ -4,7 +4,7 @@
 
 *Author: Giada Manfredi*
 
-*Date: January 2026*
+Date: January 2026
 
 ---
 
