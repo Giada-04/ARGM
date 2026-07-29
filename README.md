@@ -2,7 +2,7 @@
 
 ## Improving MusicGen Outputs
 
-Repository of the project developed for the Machine Learning course.
+Repository of the project developed for the **Machine** **Learning** course.
 
 **Author:** Giada Manfredi  
 **Degree Program:** Mathematical Sciences for Artificial Intelligence  
