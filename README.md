@@ -3,7 +3,9 @@
 ### Improving MusicGen Outputs
 
 **Author:** Giada Manfredi  
-**Date:** January 2026
+**Course:** Machine Learning  
+**University:** Sapienza University of Rome  
+**Academic year:** 2025/2026
 
 ---
 
