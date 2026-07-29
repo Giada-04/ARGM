@@ -1,10 +1,9 @@
 # Audio Restoration for Generative Models (ARGM)
 
-**Improving MusicGen Outputs**
+### Improving MusicGen Outputs
 
-*Author: Giada Manfredi*
-
-Date: January 2026
+**Author:** Giada Manfredi  
+**Date:** January 2026
 
 ---
 
