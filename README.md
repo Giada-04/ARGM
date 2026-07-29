@@ -1,11 +1,13 @@
 # Audio Restoration for Generative Models (ARGM)
 
-### Improving MusicGen Outputs
+## Improving MusicGen Outputs
+
+Repository of the project developed for the **Machine Learning** course.
 
 **Author:** Giada Manfredi  
-**Course:** Machine Learning  
+**Degree Program:** Mathematical Sciences for Artificial Intelligence  
 **University:** Sapienza University of Rome  
-**Academic year:** 2025/2026
+**Academic Year:** 2025/2026
 
 ---
 
